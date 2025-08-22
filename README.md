@@ -11,8 +11,9 @@
 </p>
 
 <p align="center">
-   <img alt="followers" src="https://img.shields.io/github/followers/MinaIbrahim365?label=Followers&style=social">
-   <img src="https://img.shields.io/github/stars/MinaIbrahim365?label=Stars" alt="stars">
+<img alt="Followers" src="https://img.shields.io/github/followers/Meda12623?label=Followers&style=social">
+<img alt="Stars" src="https://img.shields.io/github/stars/Meda12623?label=Stars&style=social">
+
 </p>
 
 ---
