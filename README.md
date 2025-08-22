@@ -24,8 +24,8 @@
     <td width="65%" valign="top">
    I am an Artificial Intelligence student at Menoufia University, passionate about Machine Learning, Deep Learning, and Data Science.  
 Skilled in Python, Scikit-learn, TensorFlow, and PyTorch, with hands-on experience in data analysis, model development, and real-world problem solving.  
-I have worked on projects in **regression, classification, image processing, and databases**, and I am always eager to expand my knowledge in **Computer Vision and Natural Language Processing**.  
-Currently, I’m seeking opportunities and collaborations in AI, aiming to grow into a **Machine Learning Engineer / Data Scientist** who builds impactful solutions.
+I have worked on projects in regression, classification, image processing, and databases, and I am always eager to expand my knowledge in Computer Vision and Natural Language Processing.  
+Currently, I’m seeking opportunities and collaborations in AI, aiming to grow into a Machine Learning Engineer  who builds impactful solutions.
     </td>
     <td width="35%" align="right">
       <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="150" alt="Coder GIF"/>
